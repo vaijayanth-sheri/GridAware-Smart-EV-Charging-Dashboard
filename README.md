@@ -1,6 +1,6 @@
 # GridAware – Smart EV Charging Dashboard
 
-**Developed by Sheri | MIT License**
+**Developed by Vaijayanth Sheri | MIT License**
 
 GridAware is a modern, intelligent web dashboard that empowers Electric Vehicle (EV) owners in Germany to make cost-optimal charging decisions using real-time electricity prices. By integrating the Awattar market API, GridAware delivers actionable, transparent insights, enabling users to maximize savings, efficiency, and confidence in their energy decisions.
 
@@ -35,8 +35,8 @@ This application is built with a focus on user control, data transparency, and p
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/vaijayanth-sheri/GridAware-Smart-EV-Charging-Dashboard.git
+    cd GridAware-Smart-EV-Charging-Dashboard
     ```
 
 2.  **Create a Virtual Environment (Recommended):**
@@ -65,28 +65,6 @@ This application is built with a focus on user control, data transparency, and p
 ### **Project Structure**
 
 The project is organized into a modular structure for clarity and maintainability:
-## 🛠️ How to Run It
-
-### 1. Clone the repository & enter the folder
-
-```bash
-git clone https://github.com/yourusername/gridaware.git
-cd gridaware
-```
-2. Install the dependencies
-Make sure you are using Python 3.9+. Then run:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the Dash app
-```bash
-python app.py
-```
-
-The app will open in your browser at:
-http://127.0.0.1:8050/
 
 ### 📦 Dependencies
 Main libraries used:
